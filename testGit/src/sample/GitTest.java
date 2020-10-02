@@ -6,6 +6,8 @@ public class GitTest {
 
 		System.out.println("Hello GitHub!");
 
+		System.out.println("GitHubに接続できました。");
+
 	}
 
 }
